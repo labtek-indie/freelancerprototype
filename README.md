@@ -1,3 +1,3 @@
 # Freelancer Website Prototype
 
-labtek-indie.github.io/freelancerprototype
+[Website](http://labtek-indie.github.io/freelancerprototype)
